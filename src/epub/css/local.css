@@ -4,3 +4,8 @@
 q{
 	font-style: italic;
 }
+
+/* Italics nested in thoughts */
+q i{
+	font-style: normal;
+}
