@@ -12,7 +12,6 @@ q i{
 
 /* Centered dedications */
 section[epub|type~="dedication"]{
-	font-variant-caps: all-small-caps;
 	text-align: center;
 }
 
