@@ -32,43 +32,42 @@
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Science Fiction</meta>
+		<dc:description id="description">A group of humans stranded on a deadly planet seek to survive the harsh conditions and take revenge on the aliens that left them there.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The spaceship &lt;i&gt;Constellation&lt;/i&gt;, taking colonists to the world of Athena, is suddenly attacked and boarded by the Gerns—an alien race which has just declared war against humanity. The Gerns take the colonists to Ragnarok, a planet in a double-star system, which was previously surveyed as uninhabitable owing to its high gravity, extreme seasonal cycles, and threatening local fauna. The Gerns leave their hostages stranded, expecting them to succumb to the planet’s harsh conditions. The humans, meanwhile, seek to survive against all odds in the hopes of one day exacting revenge.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/tom-godwin"&gt;Tom Godwin&lt;/a&gt; was an American science fiction writer known for his short stories (most notably “The Cold Equations”) and his &lt;i&gt;Ragnarok&lt;/i&gt; series, which began with the 1957 novelette “Too Soon to Die.” He later expanded this story into a novel, which was released in a limited print in 1958 as &lt;i&gt;The Survivors&lt;/i&gt;. Then, it was released again by a different publisher in 1960 as &lt;i&gt;Space Prison&lt;/i&gt;. A sequel, titled &lt;i&gt;The Space Barbarians&lt;/i&gt;, was also released in 1960.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/22549</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/spaceprisonorigi0000unse</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Survivors</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/tom-godwin_the-survivors</meta>
 		<dc:creator id="author">Tom Godwin</dc:creator>
 		<meta property="file-as" refines="#author">Godwin, Tom</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Thomas William Godwin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Tom_Godwin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/rwo/agents/no00002017</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Ralph Brillhart</dc:contributor>
+		<meta property="file-as" refines="#artist">Brillhart, Ralph</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006061554</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Joel Schlosberg</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Schlosberg, Joel</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Szymon Szott</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Szott, Szymon</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://szymonszott.github.io</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
