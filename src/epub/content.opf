@@ -33,13 +33,13 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Ragnarock</meta>
+		<meta id="collection-1" property="belongs-to-collection">Ragnarok</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A group of humans stranded on a deadly planet try to survive the harsh conditions and take revenge on the aliens that left them there.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The spaceship &lt;i&gt;Constellation&lt;/i&gt;, taking colonists to the world of Athena, is suddenly attacked and boarded by the Gerns—an alien race which has just declared war against humanity. The Gerns take the colonists to Ragnarok, a planet in a double-star system, which was previously surveyed as uninhabitable owing to its high gravity, extreme seasonal cycles, and threatening local fauna. The Gerns leave their hostages stranded, expecting them to succumb to the planet’s harsh conditions. The humans, meanwhile, seek to survive against all odds in the hopes of one day exacting revenge.&lt;/p&gt;
-			&lt;p&gt;In 1957 &lt;a href="https://standardebooks.org/ebooks/tom-godwin"&gt;Tom Godwin&lt;/a&gt; wrote the novelette “Too Soon to Die,” which he later expanded into novel published in a limited run in 1958 as &lt;i&gt;The Survivors&lt;/i&gt;. In 1960 it was reprinted by a different publisher under the title &lt;i&gt;Space Prison&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;In 1957 &lt;a href="https://standardebooks.org/ebooks/tom-godwin"&gt;Tom Godwin&lt;/a&gt; wrote the novelette “Too Soon to Die,” which he later expanded into a novel published in 1958 by Gnome Press as &lt;i&gt;The Survivors&lt;/i&gt;. In 1960 it was reprinted by Pyramid Books under the title &lt;i&gt;Space Prison&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/22549</dc:source>
