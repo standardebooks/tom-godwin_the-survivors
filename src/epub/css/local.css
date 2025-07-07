@@ -10,10 +10,6 @@ q i{
 	font-style: normal;
 }
 
-#dedication span{
-  font-style: italic;
-}
-
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
