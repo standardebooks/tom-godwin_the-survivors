@@ -45,7 +45,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/22549</dc:source>
 		<dc:source>https://archive.org/details/spaceprisonorigi0000unse</dc:source>
-		<meta property="se:word-count">54736</meta>
+		<meta property="se:word-count">54027</meta>
 		<meta property="se:reading-ease.flesch">79.4</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Survivors_(Godwin_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/tom-godwin_the-survivors</meta>
