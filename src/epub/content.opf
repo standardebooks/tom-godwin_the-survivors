@@ -55,6 +55,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Tom_Godwin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/rwo/agents/no00002017</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Ralph Brillhart</dc:contributor>
 		<meta property="file-as" refines="#artist">Brillhart, Ralph</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2006061554</meta>
