@@ -56,7 +56,7 @@
 		<meta property="file-as" refines="#author">Godwin, Tom</meta>
 		<meta property="schema:alternateName" refines="#author">Thomas William Godwin</meta>
 		<link href="https://en.wikipedia.org/wiki/Tom_Godwin" refines="#author" rel="schema:sameAs"/>
-		<link href="http://id.loc.gov/rwo/agents/no00002017" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/no00002017.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="artist">Ralph Brillhart</dc:contributor>
